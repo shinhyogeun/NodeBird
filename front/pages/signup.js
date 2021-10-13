@@ -1,6 +1,13 @@
+import Head from 'next/head';
+
 const Signup = () => {
     return (
-        <div>회원가입페이지</div>
+        <>
+            <Head>
+                <title>회원가입 | NodeBird</title>
+            </Head>
+            <div>회원가입페이지</div>
+        </>
     );
 }
 
