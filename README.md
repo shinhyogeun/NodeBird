@@ -1,3 +1,4 @@
 # NodeBird
 
-제로초 노드버드 강의 클론코딩
+1. Next를 이용한front 구현
+2. Express를 이용한 back 구현(Mysql)
